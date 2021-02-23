@@ -1,12 +1,22 @@
-# Getting Started with Create React App
+# Examples using react, material ui and recharts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project cotains some useful examples using recharts library 
 
-## Available Scripts
+## Libraries
 
-In the project directory, you can run:
+In the project we will use :
 
-### `npm start`
+### `npm install @material-ui/core`
+
+Material-UI is an open-source project that features React components that implement Google’s Material Design.
+
+### `npm install @material-ui/icons`
+
+To use Material-UI icons 
+
+### `npm install recharts`
+
+A composable charting library built on React components
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
